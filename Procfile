@@ -1,1 +1,1 @@
-worker: python play.py
+work: python play.py
