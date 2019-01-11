@@ -1,1 +1,0 @@
-work: python play.py
